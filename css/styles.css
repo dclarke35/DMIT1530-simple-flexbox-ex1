@@ -5,7 +5,20 @@ body {
 }
 
 .container {
-    background-color: #dddddd;
+    margin: 0 auto;
+    background-color: #ddd;
     width: 960px;
+    box-sizing: border-box;
+}
 
+main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+section {
+    background-color: white;
+    border: 1px solid black;
+    padding: 8px 0px;
 }
