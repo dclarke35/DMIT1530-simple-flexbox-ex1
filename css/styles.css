@@ -1,0 +1,11 @@
+body {
+    font-size: 100%;
+    line-height: 1.5;
+    background-color: white;
+}
+
+.container {
+    background-color: #dddddd;
+    width: 960px;
+
+}
